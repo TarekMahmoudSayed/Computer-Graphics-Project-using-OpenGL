@@ -12,8 +12,7 @@ Each project demonstrates a key transformation or rendering concept used in real
 - Continuous rotation
 - Demonstrates combined transformations
 
-📸 Screenshot:
-> Add image here:
+  
 ```md
 ![Diamond](images/diamond.gif)
 2️⃣ Star Animation (Translation + Reflection)
