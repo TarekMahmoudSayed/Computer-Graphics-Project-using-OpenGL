@@ -4,7 +4,7 @@ A collection of **5 interactive 2D Computer Graphics projects** implemented usin
 Each project demonstrates a key transformation or rendering concept used in real-time graphics systems.
 
 ---
-
+```md
 ## 🚀 Projects Included
 
 ### 1️⃣ Diamond Animation (Translation + Rotation)
@@ -14,28 +14,22 @@ Each project demonstrates a key transformation or rendering concept used in real
 
   
 ```md
-![Diamond](images/diamond.gif)
+
 2️⃣ Star Animation (Translation + Reflection)
 Animated star movement
 Vertical reflection effect (flipping)
 
-📸 Screenshot:
 
-![Star](images/star.gif)
 3️⃣ Triangle Animation (Translation + Shearing)
 Moving triangle
 Dynamic shearing transformation using matrix
 
-📸 Screenshot:
 
-![Triangle](images/triangle.gif)
 4️⃣ Rectangle Animation (Translation + Scaling)
 Moving rectangle
 Smooth scaling (zoom in/out effect)
 
-📸 Screenshot:
 
-![Rectangle](images/rectangle.gif)
 5️⃣ Circle Rendering (Midpoint Algorithm + Scaling)
 Circle drawn using Midpoint Circle Algorithm
 No built-in circle functions used
